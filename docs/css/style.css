@@ -116,15 +116,16 @@ body {
         
 
          .container-degree {
-            max-width: 10000px;
-            width: 100%;
-            margin: 0 auto;
             max-width: 2000px;
             margin: auto;
             background: white;
             border-radius: 12px;
         }
-        h1 { color: #000000; margin-bottom: 5px; }
+        h1 { color: #000000; 
+            margin-bottom: px;
+            margin-top: 2300px;
+        }
+
         h2 { 
             color: #2c3e50; 
             margin-top: 35px; 
