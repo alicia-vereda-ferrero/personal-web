@@ -1,6 +1,6 @@
 # Practical Work II: Personal Website - Fundamentals of Computer Engineering
 
-## Description
+##Description
 This project consists of the design and development of a personal website.
 
 The website is divided into several sections:
@@ -26,3 +26,4 @@ Overall, this practical work has provided me with a solid foundation in web deve
 **Author:** Alicia Vereda Ferrero
 **Course:** First Year - Computer Engineering (UFV)
 **Date:** December 2025
+
