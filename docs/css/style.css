@@ -120,6 +120,8 @@ body {
             margin: auto;
             background: white;
             border-radius: 12px;
+            padding-left: 500px;
+            padding-right: 500px;
         }
         h1 { color: #000000; 
             margin-bottom: px;
