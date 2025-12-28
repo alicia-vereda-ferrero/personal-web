@@ -34,6 +34,7 @@ body {
             left: 20px;             
             font-size: 1.5rem;
             margin: 13px;
+            color: white;
         }
 
         nav {
@@ -89,3 +90,62 @@ body {
         
         
         }
+
+/*ABOUT*/
+        img {
+            width: 250px;
+            height: 180px;
+            object-fit: cover;
+            margin: 10px;
+            border-radius: 5px;
+        }
+        .cv-box {
+            margin: 30px 0;
+            padding: 20px;
+            border: 1px solid #ddd;
+            display: inline-block;
+        }
+        .links a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: blue;
+        }
+
+/*DEGREE*/
+
+        
+
+         .container-degree {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 500px;
+            border-radius: 12px;
+        }
+        h1 { color: #000000; margin-bottom: 5px; }
+        h2 { 
+            color: #2c3e50; 
+            margin-top: 35px; 
+            padding-bottom: 5px;
+            border-bottom: 3px solid #46859e;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 0.95rem;
+        }
+        th, td { border: 1px solid black; 
+            padding: 10px; 
+            text-align: left; 
+            background-color: white; 
+        }
+
+        th {
+            background-color: #46859e;
+            color: white;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+  
