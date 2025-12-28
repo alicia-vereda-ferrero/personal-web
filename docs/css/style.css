@@ -163,8 +163,6 @@ body {
             margin: 40px auto;
             background: white;
             padding: 40px;
-            border-radius: 12px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
             text-align: left;
         }
 
@@ -180,7 +178,7 @@ body {
             margin-right: 2px;
         }
 
-        .header-fce { color: #000000; 
+        .header-fce { color: black;
             margin-bottom: 5px;
             margin-top: 100px;
         }
@@ -235,4 +233,42 @@ body {
         .student-link {
             color: #46859e;
             font-size: 0.85rem;
+        }
+
+/*TOPIC*/
+.container-topic {
+            margin-top:15px;
+            max-width: 800px;
+            width: 90%;
+            background: white;
+            padding: 40px;
+            text-align: left;
+        }
+
+        p {
+            line-height: 1.7;
+            margin-bottom: 15px;
+        }
+
+        .image-container {
+            text-align: center;
+            margin: 30px 0;
+        }
+
+        .image-container img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-bottom: 10px;
+        }
+
+        .image-caption {
+            font-size: 0.9em;
+            color: #666;
+        }
+
+        ul {
+            list-style-type: decimal; /* Números para los pasos */
+            margin-left: 20px;
+            line-height: 1.6;
         }
