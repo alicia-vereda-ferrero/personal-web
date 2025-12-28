@@ -82,7 +82,7 @@ body {
 
 /*CONTACT*/
         .container-contact{
-            height: 800px;
+            height: 100x;
             display: flex;
             flex-direction: column;
             justify-content: center;
@@ -115,18 +115,20 @@ body {
 
         
 
-         .container-degree {
-            margin-top: 120px; 
+        .container-degree {
+            margin-top: 1000px;
             padding: 20px;
             width: 90%;
             max-width: 1000px;
             margin-left: auto;
             margin-right: auto;
-            margin-bottom: 200px;
+            margin-bottom: 100px;
+            background-color: white;
         }
+
         h1 { color: #000000; 
             margin-bottom: 5px;
-            margin-top: 2200px;
+            margin-top: 200px;
         }
 
         h2 { 
